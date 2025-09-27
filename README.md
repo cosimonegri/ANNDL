@@ -28,7 +28,7 @@ Project for the _Artificial Neural Networks and Deep Learning_ course held at Po
 ## Results
 The model we submitted achieved an 89% accuracy on the test set.
 
-Check out the final [`report`](./Blood%20Cells%20Classification/report.pdf).
+Check out the final [report](./Blood%20Cells%20Classification/report.pdf).
 
 # Martian Terrain Semantic Segmentation
 
@@ -49,7 +49,7 @@ Check out the final [`report`](./Blood%20Cells%20Classification/report.pdf).
 ## Results
 The model we submitted achieved a 64% mean IoU (excluding the background class) on the test set.
 
-Check out the final [`report`](./Martian%20Terrain%20Semantic%20Segmentation/report.pdf).
+Check out the final [report](./Martian%20Terrain%20Semantic%20Segmentation/report.pdf).
 
 Check the competition on [kaggle](https://www.kaggle.com/competitions/an-2-dl-2024-2025-homework-2/overview).
 
