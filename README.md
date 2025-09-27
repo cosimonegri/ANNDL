@@ -9,21 +9,24 @@ Project for the _Artificial Neural Networks and Deep Learning_ course held at Po
 - [Team](#team)
 
 # Blood Cells Classification
-<img width="429" height="244" alt="brave_screenshot_github com" src="https://github.com/user-attachments/assets/44afc46f-1781-401a-b706-98182111e07e" />
 
-## Overview
+## Dataset
 
-**Objective:** perform an 8-class classification task on blood cells images.
+<img width="3000" height="1600" alt="bloodcells-dataset-sample" src="https://github.com/user-attachments/assets/cd951b17-030c-4c4c-8db0-9a2c7363093d" />
+<br />
+<br />
 
-**Dataset:** 13,759 RGB images (96x96 pixels)
+- **Image Size:** 96x96
+- **Color Space:** RGB (3 channels)
+- **Number of Images:** 13,759
+- **Number of Classes:** 8
 
-**Methodology:** 
+## Methodology
   - Built an initial Convolutional Neural Network (CNN) with regularization and augmentation
   - Implemented Transfer Learning and Fine Tuning
 
 ## Results
-Our model achieved an 89% test set accuracy and perfect evaluation.<br />
-Check out the final [`report`](./Blood%20Cells%20Classification/report.pdf).
+Our model achieved an 89% test set accuracy and perfect evaluation. Check out the final [`report`](./Blood%20Cells%20Classification/report.pdf).
 
 # Mars Terrain Segmentation
 
